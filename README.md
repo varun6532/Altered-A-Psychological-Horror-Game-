@@ -2,7 +2,7 @@
 ### A Psychological Horror Experience
 
 <p align="center">
-  <img src="Screenshots/main-menu.png" alt="Altered Main Menu" width="100%">
+  <img src="ScreenShots/main-menu.png" alt="Altered Main Menu" width="100%">
 </p>
 
 <p align="center">
@@ -46,45 +46,45 @@ Developed primarily using **Unreal Engine Blueprint Visual Scripting**, the proj
 ### Main Menu
 
 <p align="center">
-  <img src="Screenshots/main-menu.png" width="100%" alt="Altered Main Menu">
+  <img src="ScreenShots/main-menu.png" width="100%" alt="Altered Main Menu">
 </p>
 
 ### Environments & Atmosphere
 
 <p align="center">
-  <img src="Screenshots/rainy-street.png.png" width="100%" alt="Rainy street environment">
+  <img src="ScreenShots/rainy-street.png.png" width="100%" alt="Rainy street environment">
 </p>
 
 <p align="center">
-  <img src="Screenshots/Screenshot%202026-11-09%20220828.png" width="100%" alt="Blood-stained environment">
+  <img src="ScreenShots/Screenshot%202026-11-09%20220828.png" width="100%" alt="Blood-stained environment">
 </p>
 
 <p align="center">
-  <img src="Screenshots/Screenshot%202026-11-09%20220944.png" width="100%" alt="Interior environment">
+  <img src="ScreenShots/Screenshot%202026-11-09%20220944.png" width="100%" alt="Interior environment">
 </p>
 
 ### Psychological Horror & Gameplay
 
 <p align="center">
-  <img src="Screenshots/blood-room.png" width="100%" alt="Blood-stained room">
+  <img src="ScreenShots/blood-room.png" width="100%" alt="Blood-stained room">
 </p>
 
 <p align="center">
-  <img src="Screenshots/hallway.png" width="100%" alt="Atmospheric hallway">
+  <img src="ScreenShots/hallway.png" width="100%" alt="Atmospheric hallway">
 </p>
 
 <p align="center">
-  <img src="Screenshots/flashlight-in-hand.png" width="100%" alt="Flashlight gameplay">
+  <img src="ScreenShots/flashlight-in-hand.png" width="100%" alt="Flashlight gameplay">
 </p>
 
 ### Environmental Storytelling
 
 <p align="center">
-  <img src="Screenshots/footprints.png" width="100%" alt="Footprints leading through the environment">
+  <img src="ScreenShots/footprints.png" width="100%" alt="Footprints leading through the environment">
 </p>
 
 <p align="center">
-  <img src="Screenshots/hidden-knives.png" width="100%" alt="Hidden knives discovered during exploration">
+  <img src="ScreenShots/hidden-knives.png" width="100%" alt="Hidden knives discovered during exploration">
 </p>
 
 ---
