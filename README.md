@@ -1,61 +1,123 @@
 # ALTERED
-### A Psychological Horror Game
+### A Psychological Horror Experience
 
-**Developed by Afnex Studios**  
-**Engine:** Unreal Engine 5.6  
-**Primary Development:** Blueprint Visual Scripting
+<p align="center">
+  <img src="Screenshots/main-menu.png" alt="Altered Main Menu" width="100%">
+</p>
+
+<p align="center">
+  <strong>Developed by Afnex Studios</strong><br>
+  Built with Unreal Engine 5.6
+</p>
 
 ---
 
 ## About the Project
 
-**Altered** is a psychological horror game developed in Unreal Engine 5.6. The project focuses on immersive first-person gameplay, environmental interactions, scripted sequences, and psychological horror mechanics.
+**Altered** is a first-person psychological horror game developed using Unreal Engine 5.6.
 
-The game is built primarily using Unreal Engine's Blueprint Visual Scripting system, with custom gameplay logic and systems developed throughout production.
+The project focuses on creating an immersive horror experience through environmental storytelling, interactive gameplay, atmospheric environments, and scripted psychological horror sequences.
 
-## Gameplay Systems
+Developed primarily using **Unreal Engine Blueprint Visual Scripting**, the project includes custom gameplay systems, player mechanics, interaction logic, and scene-specific events.
 
-Some of the systems developed for Altered include:
+## Gameplay Features
 
-- **First-Person Movement:** Custom movement mechanics including sprinting, crouching, sliding, jumping, and zoom.
-- **Interaction System:** Reusable interaction logic using Blueprint Interfaces.
-- **Environmental Interactions:** Interactive doors, lights, switches, notes, objects, and other environmental elements.
-- **Psychological Horror Mechanics:** Dissociation effects, scripted scares, environmental events, and immersive sequences.
-- **Gameplay Triggers:** Event-driven interactions, progression triggers, and scripted transitions.
-- **Input System:** Enhanced Input configuration for player controls.
+- **First-Person Movement:** Custom player movement mechanics including sprinting, crouching, sliding, jumping, and zoom.
+- **Interaction System:** Reusable interaction architecture built using Blueprint Interfaces.
+- **Interactive Environments:** Interactions with doors, switches, lights, notes, objects, and environmental elements.
+- **Psychological Horror:** Dissociation mechanics, scripted scares, environmental events, and immersive sequences.
+- **Gameplay Progression:** Trigger-based events, objectives, and scripted transitions.
+- **Enhanced Input:** Player input configuration using Unreal Engine's Enhanced Input System.
+- **Atmospheric Environments:** Environmental lighting, weather, and visual storytelling.
 
-## Technical Details
+## Technical Overview
 
 | Category | Technology |
 |---|---|
 | Game Engine | Unreal Engine 5.6 |
 | Gameplay Programming | Blueprint Visual Scripting |
-| Input | Enhanced Input System |
+| Input System | Enhanced Input |
 | Interaction Architecture | Blueprint Interfaces |
 | Version Control | Git & Git LFS |
-
-## Repository Contents
-
-This repository contains a selected snapshot of the project's gameplay implementation.
-
-- Core gameplay Blueprints
-- Player movement logic
-- GameInstance and GameMode Blueprints
-- Input Actions and Mapping Contexts
-- Interaction interfaces and systems
-- Scene-specific gameplay actors and triggers
-
-**Note:** This is not a complete playable project. Marketplace assets, environments, textures, audio, and other large dependencies are intentionally excluded. Some Blueprints may therefore require assets from the original project to function correctly.
+| Development Studio | Afnex Studios |
 
 ## Screenshots
 
-*Gameplay screenshots and development captures will be added here.*
+### Main Menu
 
-## Project Status
+<p align="center">
+  <img src="Screenshots/main-menu.png" width="100%" alt="Altered Main Menu">
+</p>
 
-Altered is an ongoing game development project. Systems and gameplay features are subject to change as development continues.
+### Environments & Atmosphere
+
+<p align="center">
+  <img src="Screenshots/rainy-street.png.png" width="100%" alt="Rainy street environment">
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot%202026-11-09%20220828.png" width="100%" alt="Blood-stained environment">
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot%202026-11-09%20220944.png" width="100%" alt="Interior environment">
+</p>
+
+### Psychological Horror & Gameplay
+
+<p align="center">
+  <img src="Screenshots/blood-room.png" width="100%" alt="Blood-stained room">
+</p>
+
+<p align="center">
+  <img src="Screenshots/hallway.png" width="100%" alt="Atmospheric hallway">
+</p>
+
+<p align="center">
+  <img src="Screenshots/flashlight-in-hand.png" width="100%" alt="Flashlight gameplay">
+</p>
+
+### Environmental Storytelling
+
+<p align="center">
+  <img src="Screenshots/footprints.png" width="100%" alt="Footprints leading through the environment">
+</p>
+
+<p align="center">
+  <img src="Screenshots/hidden-knives.png" width="100%" alt="Hidden knives discovered during exploration">
+</p>
 
 ---
 
-**Afnex Studios**  
-*Built with Unreal Engine 5.6.*
+## Repository Contents
+
+This repository contains a selected snapshot of the gameplay implementation developed for Altered.
+
+It includes:
+
+- Core GameInstance and GameMode Blueprints
+- Player movement Blueprint
+- Enhanced Input Actions and Mapping Contexts
+- Gameplay actors and triggers
+- Blueprint Interfaces
+- Interaction systems
+- Scene-specific gameplay mechanics
+- Development screenshots
+
+**Important:** This is a code-focused Blueprint snapshot, not the complete playable Unreal Engine project. Maps, marketplace assets, meshes, textures, audio, and other dependencies are intentionally excluded.
+
+Some Blueprints may therefore require assets from the original project to function correctly.
+
+## Development
+
+Altered is an ongoing independent game development project. Its gameplay systems and mechanics are developed and iterated on using Unreal Engine's Blueprint Visual Scripting environment.
+
+The project serves as a practical exploration of gameplay programming, interaction architecture, event-driven systems, and atmospheric game design.
+
+---
+
+<p align="center">
+  <strong>ALTERED</strong><br>
+  Afnex Studios<br>
+  <em>Created with Unreal Engine 5.6</em>
+</p>
